@@ -1,21 +1,21 @@
 <template>
   <tab-bar>
-    <tab-bar-item path="/home" activeColor="red">
+    <tab-bar-item path="/home" activeColor="#1BAE39">
       <img slot="item-icon" src="~assets/img/tabbar/home.svg" alt="">
       <img slot="item-icon-active" src="~assets/img/tabbar/home_active.svg" alt="">
       <div slot="item-text" >首頁</div>
     </tab-bar-item>
-    <tab-bar-item path="/category" activeColor="red">
+    <tab-bar-item path="/category" activeColor="#1BAE39">
       <img slot="item-icon" src="~assets/img/tabbar/note.svg" alt="">
       <img slot="item-icon-active" src="~assets/img/tabbar/note_active.svg" alt="">
       <div slot="item-text" >分類</div>
     </tab-bar-item>
-    <tab-bar-item path="/cart" activeColor="red">
+    <tab-bar-item path="/cart" activeColor="#1BAE39">
       <img slot="item-icon" src="~assets/img/tabbar/shopcar.svg" alt="">
       <img slot="item-icon-active" src="~assets/img/tabbar/shopcar_active.svg" alt="">
       <div slot="item-text" >購物車</div>
     </tab-bar-item>
-    <tab-bar-item path="/profile" activeColor="red">
+    <tab-bar-item path="/profile" activeColor="#1BAE39">
       <img slot="item-icon" src="~assets/img/tabbar/profile.svg" alt="">
       <img slot="item-icon-active" src="~assets/img/tabbar/profile_active.svg" alt="">
       <div slot="item-text" >我的</div>

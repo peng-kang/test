@@ -3,9 +3,10 @@
 :root {
   --color-text: #666;
   --color-high-text: #ff5777;
-  --color-tint: #ff8198;
+  //--color-tint: #ff8198;
+  --color-tint: #1BAE39;
   --color-background: #fff;
-  --font-size: 14px;
+  --font-size: 20px;
   --line-height: 1.5;
 }
 
